@@ -1,4 +1,4 @@
-package com.example.apiRestfull;
+package entitys;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
